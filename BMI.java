@@ -34,5 +34,7 @@ public class BMI {
         else if (obesitas)
             System.out.println("Sehingga Obesitas");
 
+            //Bagaimana cara ikan bekerja
+
     }
 }
