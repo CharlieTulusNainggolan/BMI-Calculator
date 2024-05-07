@@ -34,6 +34,8 @@ public class BMI {
         else if (obesitas)
             System.out.println("Sehingga Obesitas");
 
+            //menambahkan tes
+
             
     }
 }
